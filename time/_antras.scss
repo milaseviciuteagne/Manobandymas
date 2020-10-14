@@ -1,0 +1,69 @@
+*{
+    box-sizing: border-box;
+}
+.antras{
+    margin:0px 60px;
+    display: flex;
+    // position: absolute;
+    width: 80%;
+    // z-index: 2;
+.desine{
+    padding-top: 30px;
+    position: relative;
+    width: 40%;
+    z-index: 1;
+    h2{
+
+        font-family: Mulish;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 42px;
+        line-height: 53px;
+        color: #312562;
+        width: 600px;
+        height: 159px;
+        left: 100px;
+        top: 260px;
+        padding-top: 30px;
+      
+    }
+    p{
+        
+        width: 505px;
+        height: 82px;
+        left: 100px;
+        top: 436px;
+        font-family: Mulish;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 150%;
+        /* or 24px */
+        color: #5C547A;
+    }
+    button{
+        background: #5753A8;
+        border-radius: 30px;
+        font-family: Mulish;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 14px;
+        line-height: 18px;
+        /* identical to box height */
+        text-transform: capitalize;
+        color: #FFFFFF;
+        width: 170px;
+        height: 60px;
+        // left: calc(50% - 170px/2 - 535px);
+        // top: calc(50% - 60px/2 - 936.5px);
+
+    }
+}
+    .kaire{
+        position: relative;
+    
+        // z-index: 1;
+        width: 40%;
+       
+    }
+}

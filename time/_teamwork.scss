@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+}
+.teamwork{
+    margin: 50px 25px;
+    margin-left: 20px;
+    display: flex;
+    width: 80%;
+    .kaire{
+        padding-left: 30px;
+        padding-top: 50px;
+        
+        h2{
+            font-family: Mulish;
+            font-style: normal;
+            font-weight: bold;
+            font-size: 38px;
+            line-height: 48px;
+            color: #312562;
+        }
+        p{
+            font-family: Mulish;
+            font-style: normal;
+            font-weight: 600;
+            font-size: 16px;
+            line-height: 30px;
+            color: #5C547A;
+        }
+        a{
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: bold;
+            font-size: 16px;
+            line-height: 19px;
+            color: #FAA765;
+
+    }
+            .desine{
+                    background-color: white;
+                img{
+                    padding: 0px 5px; 
+                }
+            }
+    }
+    }

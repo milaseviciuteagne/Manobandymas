@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+}
+.kazkas{
+    display: flex;
+    background: rgba(183, 233, 233, 0.25);
+    border-radius: 30px;
+    width: 90%;
+    margin-left: 40px;
+    .kaire{
+        img{
+            padding-left: 10px;
+        }
+    }
+    .desine{
+        padding-left: 150px;
+        padding-top: 50px;
+       width: 50%;
+        h2{
+            font-family: Mulish;
+            font-style: normal;
+            font-weight: 800;
+            font-size: 38px;
+            line-height: 48px;
+            color: #312562;}
+        p{
+            font-family: Mulish;
+            font-style: normal;
+            font-weight: 600;
+            font-size: 16px;
+            line-height: 30px;
+            color: #5C547A;
+            width: 70%;
+        }
+        button{
+            background: #5753A8;
+            border-radius: 30px;
+            font-family: Mulish;
+            font-style: normal;
+            font-weight: bold;
+            font-size: 14px;
+            line-height: 18px;
+            text-transform: capitalize;
+            color: #FFFFFF;
+            padding: 20px 41px;
+
+            
+        }
+    }
+}
